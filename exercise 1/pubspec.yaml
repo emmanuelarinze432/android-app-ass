@@ -1,0 +1,6 @@
+name: user_email_task
+description: Dart program to process users with nullable emails
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
