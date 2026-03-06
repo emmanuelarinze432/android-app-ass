@@ -1,0 +1,6 @@
+name: number_processing
+description: Dart program to filter null values, double numbers and sum them
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
